@@ -1,4 +1,4 @@
-import dz.Task;
+package dz;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
